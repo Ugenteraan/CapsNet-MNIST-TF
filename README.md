@@ -17,4 +17,4 @@ Training Accuracy :
 
 Reconstructed Images:
 
-![](reconstructed.png)
+![](accuracy.png)
