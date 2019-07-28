@@ -13,8 +13,8 @@ Training Reconstruction Loss :
 
 Training Accuracy :
 
-![](r_loss.png)
+![](accuracy.png)
 
 Reconstructed Images:
 
-![](accuracy.png)
+![](reconstructed.png)
